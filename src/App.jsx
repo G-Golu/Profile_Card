@@ -3,6 +3,8 @@
 // import UserDetails from "./components/UserDetails";
 // import "./App.css";
 
+import TryPage from "./Try"
+
 // function App() {
 //   const [selectedUser, setSelectedUser] = useState(null);
 
@@ -62,6 +64,9 @@ function App () {
     return <>
     <div>
         Hello this is test page 
+        <div>
+          < TryPage/>
+        </div>
     </div>
     </>
 }
