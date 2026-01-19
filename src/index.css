@@ -1,0 +1,42 @@
+.hello{
+  text-align: center;
+  /* margin-top: 50%; */
+ margin-top: 0%;
+  text-decoration: dashed;
+  text-transform:initial;
+  text-shadow: 0cqb;
+  text-size-adjust: inherit;
+  color: blue;
+  background-color: yellowgreen;
+}
+
+body{
+  background-color:rgb(124, 121, 117);
+}
+
+
+
+
+
+
+
+
+.card{
+   width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.profile-name {
+  font-size: 18px;
+  font-weight: 600;
+  white-space: nowrap;
+  margin: 0;
+  white-space: nowrap;
+}
+
+.profile-role {
+  font-size: 14px;
+  color: #64748b;
+  margin: 4px 0 0;
+}
